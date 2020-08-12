@@ -25,7 +25,7 @@ I am a full stack developer
 <img align="left" alt="Visual Studio Code" height="36px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" />
-<img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
+<img align="left" alt="Visual Studio Code" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <!--
 -->
