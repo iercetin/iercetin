@@ -19,8 +19,8 @@ I am a full stack developer
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][]
+[<img align="left" alt="Visual Studio Code" width="46px" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" />][]
 
 <!--
 -->
