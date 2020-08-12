@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages and Tools: I am a full stack developer
+### About Me: 
+I am a full stack developer
 
 ### Languages and Tools:
 
